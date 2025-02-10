@@ -1,0 +1,16 @@
+{
+  "cities": [
+    {
+      "name": "LAX",
+      "neighbors": [
+
+      ]
+    },
+    {
+      "name": "POA",
+      "neighbors": [
+        { "name": "LAX", "distance": 10000 }
+      ]
+    }
+  ]
+}
